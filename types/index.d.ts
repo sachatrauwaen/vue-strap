@@ -3,6 +3,7 @@ declare module 'vue-strap' {
   export class affix { }
   export class alert { }
   export class aside { }
+  export class button { }
   export class buttonGroup { }
   export class carousel { }
   export class checkbox { }
@@ -26,5 +27,5 @@ declare module 'vue-strap' {
   export class tabs { }
   export class toggleButton { }
   export class tooltip { }
-  export class typeahead
+  export class typeahead {}
 }
